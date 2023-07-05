@@ -1,3 +1,9 @@
+# pic
+.png
+.jpg
+.jpeg
+
+# #### original c++ ############
 # Prerequisites
 *.d
 
@@ -30,3 +36,78 @@
 *.exe
 *.out
 *.app
+
+########### c++ ############
+cmake-build-debug/
+
+## python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pycharm
+.idea
+.idea/
+
+
+# Visual Studio cache/options directory
+.vs/
+
+*.log
+*.tlog
+*.idb
+*.vcxproj
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
